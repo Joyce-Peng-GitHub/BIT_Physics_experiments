@@ -18,6 +18,8 @@
 
 为方便没有安装Markdown阅读器的同学使用，我会不定期将题库和答案的Markdown文件导出为PDF发布到Release，但这一定会落后于原文件，所以有条件的同学请直接使用Markdown。
 
+乐学的答案是表格中的`Std`。
+
 ## 关于README
 
 原存储库的README文件被重命名为`OLD_README.md`。
